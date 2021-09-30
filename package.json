@@ -1,0 +1,6 @@
+{
+  "name": "cloudflare-ab-test",
+  "version": "1.0.0",
+  "description": "A simple A/B testing tool implemented with Cloudflare workers",
+  "module": "./src/index.mjs"
+}
